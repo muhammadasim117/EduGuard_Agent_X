@@ -1,0 +1,6 @@
+{
+  "name": "EduGuard Agent",
+  "description": "AI security agent that detects risky access to student data, explains why it matters, and recommends actions administrators can take to protect sensitive educational information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
